@@ -54,7 +54,7 @@ async def start(c: Client, m: Union[Message, CallbackQuery]):
                 InlineKeyboardButton("🪪 Dados", callback_data="info_dados"),
             ],
             [
-                InlineKeyboardButton("👤 Suporte", url="https://t.me/afxtrem7search"),
+                InlineKeyboardButton("👤 Suporte", url="https://t.me/Derick71"),
             ],
         ]
     )
@@ -65,9 +65,9 @@ async def start(c: Client, m: Union[Message, CallbackQuery]):
 
     start_message = f"""<a href='{bot_logo}'>&#8204</a><b>🎟 Seja {m.from_user.first_name} Bem vindo(a) a melhor loja de logins do mercado!!</b>
 
-<b>❓| <a href="https://t.me/afxtrem7search">Dúvidas</a>
-📢| <a href="https://t.me/afxsearch">Canal</a> 
-🫂| <a href="https://t.me/afxsearchgroup">Grupo</a> </b>
+<b>❓| <a href="https://t.me/Derick71">Dúvidas</a>
+📢| <a href="https://t.me/palaciorealreiderick</a> 
+🫂| <a href="https://t.me/TheNewEraMetodos">Grupo</a> </b>
 """
 
     if isinstance(m, CallbackQuery):

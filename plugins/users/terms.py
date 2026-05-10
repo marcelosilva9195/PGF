@@ -24,11 +24,11 @@ async def btc(c: Client, m: CallbackQuery):
     await m.edit_message_text(
         f"""<a href=''>&#8204</a><b>💻 | SEARCH BOT V4</b>
 
-<b>⚠️ - Store bot mais completa do 7 bot feito do 0 @afxsearch
-Esse bot foi criado sua primeira versão em 09/10/2023!!</b>
+<b>⚠️ - Store bot mais completa do 7 bot feito do 0 @derick71
+Esse bot foi criado sua primeira versão em 10/05/2026!!</b>
 
 <b>• Registro de alterações:</b>
-<b>➠ Pix automático asaas!</b>
+<b>➠ Pix automático misticpay!</b>
 <b>➠ Pix automático mp!</b>
 <b>➠ Pix automático Pagbank pj!</b>
 <b>➠ Alteração do menu via comando!</b>
@@ -41,7 +41,7 @@ Esse bot foi criado sua primeira versão em 09/10/2023!!</b>
 <b>➥ Entre outras entre em ctt com o afx para mais informações!!</b>
 
 
-<b>✧ Alugue o seu bot com @afxtrem7search</b>
-<b>✱ Canal:  <a href="https://t.me/afxsearch/156">@afxsearch</a></b>""",
+<b>✧ Alugue o seu bot com @derick71</b>
+<b>✱ Canal:  <a href="https://t.me/palaciorealreiderick</a></b>""",
         reply_markup=kb,
 	)
